@@ -1,0 +1,27 @@
+{
+  "category": [
+    {
+      "id": "2438",
+      "category_name": "Giáo dục"
+    },
+    {
+      "id": "ca77",
+      "category_name": "Tin tức"
+    },
+    {
+      "id": "686c",
+      "category_name": "Thể thao"
+    }
+  ],
+  "posts": [
+    {
+      "id": "e35c",
+      "title": "test 1",
+      "post_img": "",
+      "category": "ca77",
+      "content": "<p>content test 1</p>\n",
+      "created_at": "21:25:38 19/2/2024",
+      "update_at": ""
+    }
+  ]
+}
